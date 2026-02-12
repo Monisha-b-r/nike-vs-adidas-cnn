@@ -21,6 +21,10 @@ to classify shoe images as Nike or Adidas.
 The model achieved 100% training accuracy after learning rate tuning and 
 successfully predicted unseen Nike and Adidas images.
 
+## 📷 Training Accuracy
+
+![Training Accuracy](accuracy.png)
+
 Example Predictions:
 
 Adidas Image → Correctly Predicted  
