@@ -8,7 +8,7 @@ to classify shoe images as Nike or Adidas.
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
-- PIL
+- Pillow (PIL)
 
 ## 🧠 Model Architecture
 - 3 Convolutional Blocks
@@ -18,8 +18,8 @@ to classify shoe images as Nike or Adidas.
 - Softmax Output (2 classes)
 
 ## 📊 Results
-The model achieved 100% training accuracy after learning rate tuning and 
-successfully predicted unseen Nike and Adidas images.
+The model achieved high training accuracy (up to 100%) after learning rate tuning 
+and successfully predicted unseen Nike and Adidas images.
 
 ## 📷 Training Accuracy
 
