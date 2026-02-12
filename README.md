@@ -18,7 +18,8 @@ to classify shoe images as Nike or Adidas.
 - Softmax Output (2 classes)
 
 ## 📊 Results
-The model achieved high training accuracy after learning rate tuning.
+The model achieved 100% training accuracy after learning rate tuning and 
+successfully predicted unseen Nike and Adidas images.
 
 Example Predictions:
 
